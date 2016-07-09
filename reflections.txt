@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+learned more about html elements like <sup>,<s> also style and <footer>
+
+* What has been easy?
+ 
+Usage of already learnt html elements was easier and it was also easy to look up for the new ones in MDN link
+
+ * What has been difficult?
+  
+Usage of <i> and <em> was slightly confusing and also was confused whether should I use <wbr> or not.
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+I did, Infact when I was stuck with the line above the border I used stack overflow and Google to find the solution.
